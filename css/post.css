@@ -28,6 +28,7 @@ input{
 
 input[type="file"]{
   border-radius: none;
+  margin-left: 650px;
 }
 img {
   position: relative;
